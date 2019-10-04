@@ -1,0 +1,15 @@
+in this part, a real time entry fuction has been developed.
+after the programme turtle2 has been executed, SDL window will shown on the screen,
+if we entry a whole program in one time in the terminal, the result will be shown on the SDL window in real time.
+
+An example:
+{
+DO A FROM 1 TO 100 {
+SET C := A 1.5 * ; 
+FD C
+RT 62 
+}
+}
+screen shot of the result is attached in the folder.
+PS: a problem in extension is that the program can not be entered into the terminal line by line.
+it can only be pasted into the terminal as a whole program.
